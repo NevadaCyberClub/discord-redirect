@@ -2,6 +2,9 @@
 Place to redirect to
 Automatically edited by discord invitation bot
 
+Permalink:   
+https://www.nevadacyberclub.com/discord
+
 See current redireact location by going to:   
   https://www.nevadacyberclub.com/discord-redirect/invite-link.txt
 
